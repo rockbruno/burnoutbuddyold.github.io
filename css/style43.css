@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  background: #F6F6F6;
+  background: #ffffff;
   --text-color: #000000;
   --bold-color: #000000;
   --detail-color: #3d3d3d;
@@ -20,7 +20,7 @@ body {
 }
 
 a {
-    color: var(--strong-color);
+    color: white;
     text-decoration: underline;
 }
 
@@ -240,9 +240,9 @@ b {
 }
 
 h1 {
-    color: var(--text-color);
+    color: #017ae9;
     font-size: 2.4rem;
-    font-weight: 500;
+    font-weight: 700;
 }
 
 h2 {
@@ -391,6 +391,7 @@ button {
 
 p {
     font-size: 1.1rem;
+    /*font-weight: 100;*/
     color: var(--text-color);
 }
 
@@ -412,7 +413,8 @@ p {
 
 .dl-button a {
     border-radius: 4px;
-    background: red;
+    background: #017ae9;
+    color: white;
     padding: 12px;
     text-decoration: none;
 }
@@ -421,7 +423,8 @@ p {
 .dl-button a:focus,
 .dl-button a:active {
     outline: none;
-    background: var(--detail-color);
+    background: white;
+    color: #017ae9;
 }
 
 .buttons {
@@ -491,7 +494,8 @@ p {
 }
 
 .footer {
-    background: #ffffff;
+    background: #017ae9;
+    color: white;
     display: flex;
     margin-top: 32px;
     text-align: center;
@@ -501,5 +505,11 @@ p {
 }
 
 .header {
-    background: #ffffff;
+    background: #2683ed;
+}
+
+.icontw {
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
 }
