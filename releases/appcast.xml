@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>BurnoutBuddy</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Mon, 29 Aug 2022 10:41:07 +0200</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://burnoutbuddy.rockbruno.com/releases/BurnoutBuddy-1.0.0.zip" length="2896222" type="application/octet-stream" sparkle:edSignature="ek7mlS7dqS4tKz/XH9XySXaABjtLdBhAasngQ/zIg1pmCUstFaufMr8NzSr0BRxfVZjhUl/voRoe3wcbfiWyBg=="/>
+        </item>
+    </channel>
+</rss>
