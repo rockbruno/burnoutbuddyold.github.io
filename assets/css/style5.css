@@ -93,7 +93,8 @@ ul.navbar-nav li .dropdown-menu a { padding-top: 13px; padding-bottom: 13px; fon
 .navbar-brand {
 	width: 150px;
 	height: 60px;
-	/*text-indent: -99999px;*/
+	background: url(../img/logo.png) left center no-repeat;
+	text-indent: -99999px;
 }
 
 
