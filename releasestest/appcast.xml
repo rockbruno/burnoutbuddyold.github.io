@@ -12,6 +12,10 @@
             <sparkle:deltas>
                 <enclosure url="https://burnoutbuddy.rockbruno.com/releases/BurnoutBuddy2-1.delta" sparkle:deltaFrom="1" length="120982" type="application/octet-stream" sparkle:edSignature="0ua3vBheP3NeaMAKcDkARWs+qDPButcLDNoNfuEjvxiGUqIYdXUS7SgFW+H//1iqILA++rqju4BbWRcUuxYbBg=="/>
             </sparkle:deltas>
+            <description><![CDATA[<ul>
+<li>Added "Vacation Mode", a convenience checkbox to block work apps 24/7 in case of vacations, holidays, and other forms of time-offs. You can enable it in the working hours configuration screen.</li>
+<li>Added a donate button to the menu</li> 
+</ul>]]></description>
         </item>
         <item>
             <title>1.0.0</title>
