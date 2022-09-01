@@ -12,9 +12,9 @@
 <li>Added a donate button to the menu</li> 
 </ul>]]></description>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://burnoutbuddy.rockbruno.com/releases/BurnoutBuddy-1.0.1.zip" length="2974507" type="application/octet-stream" sparkle:edSignature="Mk7J1krgQyGkUg7nqiVcdtLLkwKE8pqJepV51Q5Wqo4XvhixbuVbrO8MtaQzOIiRtx4AN6hqFGBj8hz4pZPDAA=="/>
+            <enclosure url="https://burnoutbuddy.rockbruno.com/releases/BurnoutBuddy-1.0.1.zip" length="2974388" type="application/octet-stream" sparkle:edSignature="UfTDucRwD3zJpTctfMm1Ii8tCP26sUIeU/+jBGlEr+wF1yUMbuJLYiTWbGtDVLhTB9QY/s2MiziMxVIOoesCAw=="/>
             <sparkle:deltas>
-                <enclosure url="https://burnoutbuddy.rockbruno.com/releases/BurnoutBuddy2-1.delta" sparkle:deltaFrom="1" length="120982" type="application/octet-stream" sparkle:edSignature="0ua3vBheP3NeaMAKcDkARWs+qDPButcLDNoNfuEjvxiGUqIYdXUS7SgFW+H//1iqILA++rqju4BbWRcUuxYbBg=="/>
+                <enclosure url="https://burnoutbuddy.rockbruno.com/releases/BurnoutBuddy2-1.delta" sparkle:deltaFrom="1" length="120646" type="application/octet-stream" sparkle:edSignature="zOGb34/XrLaB1BaSudXRlGteBIashPRAkIyjvbXCQ1j+MirvRzxi5aSbm5+Fywi053CR9HiA/zU3Sc9i6lJ+CA=="/>
             </sparkle:deltas>
         </item>
         <item>
