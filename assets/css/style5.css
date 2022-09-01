@@ -21,7 +21,7 @@ h1, h2 {
     line-height: 54px;
 }
 
-img { max-width: 100%; }
+/*img { max-width: 100%; }*/
 
 ::-moz-selection { background: #2ca464; color: #fff; text-shadow: none; }
 ::selection { background: #2ca464; color: #fff; text-shadow: none; }
