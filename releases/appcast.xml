@@ -3,6 +3,23 @@
     <channel>
         <title>BurnoutBuddy</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Thu, 15 Sep 2022 09:54:30 +0200</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <description><![CDATA[<ul>
+<li>- Added a new "conversation" feature to replace the old alerts. You can now reply to BurnoutBuddy when it talks to you!</li>
+<li>- Slightly improved all the windows so that only one instance can exist at a time (previously, multiple windows could be opened)</li> 
+<li>- Changed the design of the alerts</li>
+</ul>]]></description>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://burnoutbuddy.rockbruno.com/releases/BurnoutBuddy-1.1.0.zip" length="3001495" type="application/octet-stream" sparkle:edSignature="ptyf+fhB5rPQZczGupfGEpy+gVSZY1KN5e2uDDJcKxlpPDPvNCujI+a1sNX98SVjE6kmXAvB7O7YB/b+5pdzCw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://burnoutbuddy.rockbruno.com/releases/BurnoutBuddy3-2.delta" sparkle:deltaFrom="2" length="78474" type="application/octet-stream" sparkle:edSignature="ywUKQqSZWWY/Aa2x2AaEobWZgY3T2tSzPdcLS4I9R/flARI6XxUEit64NCKNkvJhRyrbBEZH1SAV1LKosO2ZDg=="/>
+                <enclosure url="https://burnoutbuddy.rockbruno.com/releases/BurnoutBuddy3-1.delta" sparkle:deltaFrom="1" length="157662" type="application/octet-stream" sparkle:edSignature="++gn7iXQA59HC+IZB8JUlCmgXC/r39Ww4eAH3EODK93xLyAZsUcK0xa1pyxWCT/KMnjpDQuLtBfs5HacvtngBQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Thu, 01 Sep 2022 11:35:14 +0200</pubDate>
             <sparkle:version>2</sparkle:version>
