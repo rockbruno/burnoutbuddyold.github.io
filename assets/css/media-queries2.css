@@ -53,8 +53,8 @@
     .top-content .top-button-small { margin-top: 30px; }
     .top-content .top-button-small a { margin: 5px 10px; }
     
-    .top-content .phone { display: none; }
-    /*.top-content .phone { margin-top: 40px; }*/
+    /*.top-content .phone { display: none; }*/
+    .top-content .phone { margin-top: 40px; }
     
     .how-it-works-description { margin-top: 30px; text-align: center; }
 	.how-it-works-description-left { padding-left: 15px; padding-right: 15px; }
