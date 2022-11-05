@@ -35,7 +35,7 @@ jQuery(document).ready(function() {
     /*
         Fullscreen background
     */
-    $('.top-content').backstretch("assets/img/backgrounds/1.jpg");
+    // $('.top-content').backstretch("assets/img/backgrounds/1.png");
     $('.how-it-works-container').backstretch("assets/img/backgrounds/1.jpg");
     $('.call-to-action-container').backstretch("assets/img/backgrounds/1.jpg");
     $('.latest-tweets-container').backstretch("assets/img/backgrounds/1.jpg");
